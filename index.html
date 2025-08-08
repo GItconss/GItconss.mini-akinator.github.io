@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Mini Akinator — Football Edition</title>
+  <link rel="stylesheet" href="GUSSER/styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Mini Akinator ⚽</h1>
+    <div id="card" class="card">
+      <div id="status">Think of a football player from the list (1–100 players).</div>
+
+      <div id="question-area" class="hidden">
+        <p id="question-text" class="question"></p>
+        <div class="buttons">
+          <button id="yes-btn">Yes</button>
+          <button id="no-btn">No</button>
+        </div>
+      </div>
+
+      <div id="guess-area" class="hidden">
+        <p id="guess-text" class="guess"></p>
+        <div class="guess-actions">
+          <button id="correct-btn">Correct ✅</button>
+          <button id="wrong-btn">Wrong ❌</button>
+          <button id="restart-btn">Restart ↻</button>
+        </div>
+      </div>
+
+      <div id="candidates-area" class="hidden">
+        <p>Remaining candidates:</p>
+        <ul id="candidates-list"></ul>
+      </div>
+
+      <div class="controls">
+        <button id="start-btn">Start Game</button>
+        <button id="show-data-btn">Show dataset</button>
+        
+      </div>
+    </div>
+
+    <footer>
+      <small>Tip: open the browser console to see internal debug messages.</small>
+    </footer>
+  </div>
+
+  <script src="GUSSER/script.js"></script>
+</body>
+</html>
