@@ -13,7 +13,7 @@ src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d13
 - Member 2: [Gokul sankar B] - [College of engineering and management punnapra]
 
 ### Project Description
-[visit my page](file:///C:/Users/useot/Desktop/mini-akinator/index.html)
+[visit my page](https://gitconss.github.io/GItconss.mini-akinator.github.io/)
 
 Gussing top 100 football players name with right amount of questions.
 
