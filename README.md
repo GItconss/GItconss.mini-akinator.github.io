@@ -12,8 +12,8 @@ src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d13
 - Team Lead: [Ajai j] - [College of engineering and management punnapra]
 - Member 2: [Gokul sankar B] - [College of engineering and management punnapra]
 
-
 ### Project Description
+[visit my page](file:///C:/Users/useot/Desktop/mini-akinator/index.html)
 
 Gussing top 100 football players name with right amount of questions.
 
